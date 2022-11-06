@@ -51,5 +51,7 @@ yarn-debug.log*
 # Spec example persistence / failure tracking
 /spec/examples.txt
 
+/tmp/pids/.keep
+
 # Vim Swap File
 .swp
